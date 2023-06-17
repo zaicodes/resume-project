@@ -33,7 +33,7 @@ header {
 }
 
 .logo {
-    background: url("/assests/images/zai.jpg");
+    background: url("../images/zai.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
